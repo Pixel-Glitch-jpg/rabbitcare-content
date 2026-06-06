@@ -1,0 +1,55 @@
+{
+  "articles": [
+    {
+      "id": "sante-preventive",
+      "category": "health",
+      "title": {
+        "fr": "Santé préventive : les gestes clés",
+        "en": "Preventive care: the key habits"
+      },
+      "summary": {
+        "fr": "Repérez tôt les signes d'alerte chez votre lapin et adoptez les bons réflexes de prévention.",
+        "en": "Spot the warning signs early and build the right prevention habits for your rabbit."
+      },
+      "path": "articles/health/sante-preventive",
+      "cover": null,
+      "publishedAt": "2026-01-03T09:00:00.000Z",
+      "readTimeMinutes": 5,
+      "isPremium": true
+    },
+    {
+      "id": "nutrition-avancee",
+      "category": "food",
+      "title": {
+        "fr": "Nutrition avancée de votre lapin",
+        "en": "Advanced rabbit nutrition"
+      },
+      "summary": {
+        "fr": "Ajustez les rations de foin, de verdure et de granulés selon l'âge et l'activité de votre lapin.",
+        "en": "Adjust hay, greens and pellet portions to your rabbit's age and activity."
+      },
+      "path": "articles/food/nutrition-avancee",
+      "cover": null,
+      "publishedAt": "2026-01-01T09:00:00.000Z",
+      "readTimeMinutes": 5,
+      "isPremium": true
+    },
+    {
+      "id": "comportement",
+      "category": "behavior",
+      "title": {
+        "fr": "Comprendre le comportement de votre lapin",
+        "en": "Understanding your rabbit's behaviour"
+      },
+      "summary": {
+        "fr": "Décryptez les signaux de votre lapin et prévenez les situations de stress au quotidien.",
+        "en": "Read your rabbit's signals and prevent everyday stress."
+      },
+      "path": "articles/behavior/comportement",
+      "cover": null,
+      "publishedAt": "2026-01-02T09:00:00.000Z",
+      "readTimeMinutes": 5,
+      "isPremium": true
+    }
+  ]
+}
