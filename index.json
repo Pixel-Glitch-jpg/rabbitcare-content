@@ -18,6 +18,40 @@
       "isPremium": true
     },
     {
+      "id": "stase-digestive",
+      "category": "health",
+      "title": {
+        "fr": "La stase digestive : l'urgence n°1 du lapin",
+        "en": "GI stasis: a rabbit's number one emergency"
+      },
+      "summary": {
+        "fr": "Reconnaître l'arrêt du transit, le signe le plus grave chez le lapin, et réagir à temps.",
+        "en": "Recognise a gut slowdown — a rabbit's most serious sign — and act in time."
+      },
+      "path": "articles/health/stase-digestive",
+      "cover": null,
+      "publishedAt": "2026-06-06T09:00:00.000Z",
+      "readTimeMinutes": 4,
+      "isPremium": true
+    },
+    {
+      "id": "sterilisation",
+      "category": "health",
+      "title": {
+        "fr": "Stériliser ou castrer son lapin : pourquoi et quand",
+        "en": "Neutering or spaying your rabbit: why and when"
+      },
+      "summary": {
+        "fr": "Une décision de santé avant tout : bénéfices, âge idéal et précautions après l'opération.",
+        "en": "A health decision first: benefits, the ideal age, and care after the operation."
+      },
+      "path": "articles/health/sterilisation",
+      "cover": null,
+      "publishedAt": "2026-06-06T09:05:00.000Z",
+      "readTimeMinutes": 5,
+      "isPremium": true
+    },
+    {
       "id": "nutrition-avancee",
       "category": "food",
       "title": {
@@ -35,6 +69,40 @@
       "isPremium": true
     },
     {
+      "id": "legumes-verts",
+      "category": "food",
+      "title": {
+        "fr": "Les légumes verts adaptés à votre lapin",
+        "en": "The right leafy greens for your rabbit"
+      },
+      "summary": {
+        "fr": "Quelles verdures donner, en quelle quantité, et comment les introduire sans risque.",
+        "en": "Which greens to give, how much, and how to introduce them safely."
+      },
+      "path": "articles/food/legumes-verts",
+      "cover": null,
+      "publishedAt": "2026-06-06T09:10:00.000Z",
+      "readTimeMinutes": 4,
+      "isPremium": true
+    },
+    {
+      "id": "aliments-interdits",
+      "category": "food",
+      "title": {
+        "fr": "Aliments interdits : ce que votre lapin ne doit jamais manger",
+        "en": "Forbidden foods: what your rabbit must never eat"
+      },
+      "summary": {
+        "fr": "La liste des aliments toxiques ou dangereux à tenir hors de portée de votre lapin.",
+        "en": "The list of toxic or dangerous foods to keep away from your rabbit."
+      },
+      "path": "articles/food/aliments-interdits",
+      "cover": null,
+      "publishedAt": "2026-06-06T09:15:00.000Z",
+      "readTimeMinutes": 4,
+      "isPremium": true
+    },
+    {
       "id": "comportement",
       "category": "behavior",
       "title": {
@@ -49,6 +117,278 @@
       "cover": null,
       "publishedAt": "2026-01-02T09:00:00.000Z",
       "readTimeMinutes": 5,
+      "isPremium": true
+    },
+    {
+      "id": "proprete-litiere",
+      "category": "behavior",
+      "title": {
+        "fr": "Apprendre la propreté à votre lapin",
+        "en": "Litter-training your rabbit"
+      },
+      "summary": {
+        "fr": "Le lapin est naturellement propre : la méthode pas à pas pour lui apprendre la litière.",
+        "en": "Rabbits are naturally clean: the step-by-step method to teach the litter tray."
+      },
+      "path": "articles/behavior/proprete-litiere",
+      "cover": null,
+      "publishedAt": "2026-06-06T09:20:00.000Z",
+      "readTimeMinutes": 4,
+      "isPremium": true
+    },
+    {
+      "id": "signaux-comportement",
+      "category": "behavior",
+      "title": {
+        "fr": "Mordillements, tapements, grognements : comprendre votre lapin",
+        "en": "Nips, thumps and growls: understanding your rabbit"
+      },
+      "summary": {
+        "fr": "Ce que veulent dire les gestes et les bruits de votre lapin, et comment bien réagir.",
+        "en": "What your rabbit's gestures and sounds mean, and how to respond well."
+      },
+      "path": "articles/behavior/signaux-comportement",
+      "cover": null,
+      "publishedAt": "2026-06-06T09:25:00.000Z",
+      "readTimeMinutes": 4,
+      "isPremium": true
+    },
+    {
+      "id": "espace-habitat",
+      "category": "housing",
+      "title": {
+        "fr": "Quel espace pour votre lapin ?",
+        "en": "How much space does your rabbit need?"
+      },
+      "summary": {
+        "fr": "Les dimensions minimales recommandées et pourquoi un clapier seul ne suffit jamais.",
+        "en": "The recommended minimum dimensions and why a hutch alone is never enough."
+      },
+      "path": "articles/housing/espace-habitat",
+      "cover": null,
+      "publishedAt": "2026-06-06T09:30:00.000Z",
+      "readTimeMinutes": 4,
+      "isPremium": true
+    },
+    {
+      "id": "securiser-maison",
+      "category": "housing",
+      "title": {
+        "fr": "Sécuriser votre maison pour un lapin d'intérieur",
+        "en": "Rabbit-proofing your home"
+      },
+      "summary": {
+        "fr": "Câbles, meubles, plantes, produits : protéger votre lapin avant de le laisser explorer.",
+        "en": "Cables, furniture, plants, products: protect your rabbit before letting it explore."
+      },
+      "path": "articles/housing/securiser-maison",
+      "cover": null,
+      "publishedAt": "2026-06-06T09:35:00.000Z",
+      "readTimeMinutes": 4,
+      "isPremium": true
+    },
+    {
+      "id": "mue-brossage",
+      "category": "grooming",
+      "title": {
+        "fr": "La mue et le brossage : éviter les boules de poils",
+        "en": "Moulting and brushing: preventing hairballs"
+      },
+      "summary": {
+        "fr": "Pourquoi brosser votre lapin pendant la mue protège son transit — et pourquoi ne jamais le baigner.",
+        "en": "Why brushing during the moult protects digestion — and why you should never bath a rabbit."
+      },
+      "path": "articles/grooming/mue-brossage",
+      "cover": null,
+      "publishedAt": "2026-06-06T09:40:00.000Z",
+      "readTimeMinutes": 4,
+      "isPremium": true
+    },
+    {
+      "id": "couper-griffes",
+      "category": "grooming",
+      "title": {
+        "fr": "Couper les griffes de votre lapin en sécurité",
+        "en": "Trimming your rabbit's nails safely"
+      },
+      "summary": {
+        "fr": "Repérer la partie vivante, le bon matériel, la bonne position et que faire en cas de saignement.",
+        "en": "Finding the quick, the right tools and position, and what to do if it bleeds."
+      },
+      "path": "articles/grooming/couper-griffes",
+      "cover": null,
+      "publishedAt": "2026-06-06T09:45:00.000Z",
+      "readTimeMinutes": 5,
+      "isPremium": true
+    },
+    {
+      "id": "dents-malocclusion",
+      "category": "health",
+      "title": {
+        "fr": "Les dents de votre lapin : surveiller la malocclusion",
+        "en": "Your rabbit's teeth: watching for malocclusion"
+      },
+      "summary": {
+        "fr": "Les dents poussent toute la vie : le rôle du foin, les signes d'alerte et le traitement.",
+        "en": "Teeth grow for life: the role of hay, the warning signs and the treatment."
+      },
+      "path": "articles/health/dents-malocclusion",
+      "cover": null,
+      "publishedAt": "2026-06-06T10:00:00.000Z",
+      "readTimeMinutes": 5,
+      "isPremium": true
+    },
+    {
+      "id": "vaccination",
+      "category": "health",
+      "title": {
+        "fr": "Vacciner votre lapin : myxomatose et maladie hémorragique",
+        "en": "Vaccinating your rabbit: myxomatosis and haemorrhagic disease"
+      },
+      "summary": {
+        "fr": "Deux maladies souvent mortelles, même en intérieur : pourquoi et quand vacciner.",
+        "en": "Two often-fatal diseases, even indoors: why and when to vaccinate."
+      },
+      "path": "articles/health/vaccination",
+      "cover": null,
+      "publishedAt": "2026-06-06T10:05:00.000Z",
+      "readTimeMinutes": 4,
+      "isPremium": true
+    },
+    {
+      "id": "bien-choisir-foin",
+      "category": "food",
+      "title": {
+        "fr": "Bien choisir et proposer le foin",
+        "en": "Choosing and offering hay"
+      },
+      "summary": {
+        "fr": "L'aliment n°1 du lapin : quelle quantité, quel type, et comment reconnaître un bon foin.",
+        "en": "A rabbit's number one food: how much, which type, and how to spot good hay."
+      },
+      "path": "articles/food/bien-choisir-foin",
+      "cover": null,
+      "publishedAt": "2026-06-06T10:10:00.000Z",
+      "readTimeMinutes": 4,
+      "isPremium": true
+    },
+    {
+      "id": "eau-granules",
+      "category": "food",
+      "title": {
+        "fr": "L'eau et les granulés : quantités et bons choix",
+        "en": "Water and pellets: amounts and good choices"
+      },
+      "summary": {
+        "fr": "Gamelle ou biberon, quelle quantité de granulés, et pourquoi éviter les mélanges « muesli ».",
+        "en": "Bowl or bottle, how many pellets, and why to avoid muesli mixes."
+      },
+      "path": "articles/food/eau-granules",
+      "cover": null,
+      "publishedAt": "2026-06-06T10:15:00.000Z",
+      "readTimeMinutes": 4,
+      "isPremium": true
+    },
+    {
+      "id": "compagnon",
+      "category": "behavior",
+      "title": {
+        "fr": "Votre lapin a besoin d'un compagnon",
+        "en": "Your rabbit needs a companion"
+      },
+      "summary": {
+        "fr": "Pourquoi un lapin ne doit pas vivre seul, le bon duo, et comment former un couple.",
+        "en": "Why a rabbit shouldn't live alone, the right pair, and how to bond them."
+      },
+      "path": "articles/behavior/compagnon",
+      "cover": null,
+      "publishedAt": "2026-06-06T10:20:00.000Z",
+      "readTimeMinutes": 4,
+      "isPremium": true
+    },
+    {
+      "id": "enrichissement-jeux",
+      "category": "behavior",
+      "title": {
+        "fr": "Jouer et enrichir le quotidien de votre lapin",
+        "en": "Play and enrichment for your rabbit"
+      },
+      "summary": {
+        "fr": "Creuser, ronger, fouiller : des idées sûres pour occuper votre lapin et éviter l'ennui.",
+        "en": "Digging, gnawing, foraging: safe ideas to keep your rabbit busy and avoid boredom."
+      },
+      "path": "articles/behavior/enrichissement-jeux",
+      "cover": null,
+      "publishedAt": "2026-06-06T10:25:00.000Z",
+      "readTimeMinutes": 4,
+      "isPremium": true
+    },
+    {
+      "id": "lapin-exterieur",
+      "category": "housing",
+      "title": {
+        "fr": "Lapin en extérieur : abri, météo et sécurité",
+        "en": "Outdoor rabbits: shelter, weather and safety"
+      },
+      "summary": {
+        "fr": "Un abri sec et isolé, la protection contre les prédateurs et les bons réflexes selon les saisons.",
+        "en": "A dry, insulated shelter, predator protection, and the right habits through the seasons."
+      },
+      "path": "articles/housing/lapin-exterieur",
+      "cover": null,
+      "publishedAt": "2026-06-06T10:30:00.000Z",
+      "readTimeMinutes": 5,
+      "isPremium": true
+    },
+    {
+      "id": "coup-de-chaleur",
+      "category": "housing",
+      "title": {
+        "fr": "Protéger votre lapin du coup de chaleur",
+        "en": "Protecting your rabbit from heatstroke"
+      },
+      "summary": {
+        "fr": "Le lapin supporte mal la chaleur : seuils, signes, gestes d'urgence et prévention.",
+        "en": "Rabbits cope badly with heat: thresholds, signs, emergency steps and prevention."
+      },
+      "path": "articles/housing/coup-de-chaleur",
+      "cover": null,
+      "publishedAt": "2026-06-06T10:35:00.000Z",
+      "readTimeMinutes": 4,
+      "isPremium": true
+    },
+    {
+      "id": "myiase",
+      "category": "grooming",
+      "title": {
+        "fr": "La myiase : protéger l'arrière-train de votre lapin",
+        "en": "Flystrike: protecting your rabbit's rear end"
+      },
+      "summary": {
+        "fr": "Une urgence mortelle en été : facteurs de risque, prévention quotidienne et signes.",
+        "en": "A fatal summer emergency: risk factors, daily prevention and signs."
+      },
+      "path": "articles/grooming/myiase",
+      "cover": null,
+      "publishedAt": "2026-06-06T10:40:00.000Z",
+      "readTimeMinutes": 4,
+      "isPremium": true
+    },
+    {
+      "id": "manipuler-porter",
+      "category": "grooming",
+      "title": {
+        "fr": "Manipuler et porter votre lapin en sécurité",
+        "en": "Handling and carrying your rabbit safely"
+      },
+      "summary": {
+        "fr": "Comment le soulever sans risque, les gestes interdits, et pourquoi ne jamais le mettre sur le dos.",
+        "en": "How to lift it safely, the forbidden moves, and why you must never put it on its back."
+      },
+      "path": "articles/grooming/manipuler-porter",
+      "cover": null,
+      "publishedAt": "2026-06-06T10:45:00.000Z",
+      "readTimeMinutes": 4,
       "isPremium": true
     }
   ]
