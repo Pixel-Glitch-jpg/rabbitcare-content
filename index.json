@@ -12,7 +12,7 @@
         "en": "Spot the warning signs early and build the right prevention habits for your rabbit."
       },
       "path": "articles/health/sante-preventive",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-01-03T09:00:00.000Z",
       "readTimeMinutes": 5,
       "isPremium": true
@@ -29,7 +29,7 @@
         "en": "Recognise a gut slowdown — a rabbit's most serious sign — and act in time."
       },
       "path": "articles/health/stase-digestive",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T09:00:00.000Z",
       "readTimeMinutes": 4,
       "isPremium": true
@@ -46,7 +46,7 @@
         "en": "A health decision first: benefits, the ideal age, and care after the operation."
       },
       "path": "articles/health/sterilisation",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T09:05:00.000Z",
       "readTimeMinutes": 5,
       "isPremium": true
@@ -63,7 +63,7 @@
         "en": "Adjust hay, greens and pellet portions to your rabbit's age and activity."
       },
       "path": "articles/food/nutrition-avancee",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-01-01T09:00:00.000Z",
       "readTimeMinutes": 5,
       "isPremium": true
@@ -80,7 +80,7 @@
         "en": "Which greens to give, how much, and how to introduce them safely."
       },
       "path": "articles/food/legumes-verts",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T09:10:00.000Z",
       "readTimeMinutes": 4,
       "isPremium": true
@@ -97,7 +97,7 @@
         "en": "The list of toxic or dangerous foods to keep away from your rabbit."
       },
       "path": "articles/food/aliments-interdits",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T09:15:00.000Z",
       "readTimeMinutes": 4,
       "isPremium": true
@@ -114,7 +114,7 @@
         "en": "Read your rabbit's signals and prevent everyday stress."
       },
       "path": "articles/behavior/comportement",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-01-02T09:00:00.000Z",
       "readTimeMinutes": 5,
       "isPremium": true
@@ -131,7 +131,7 @@
         "en": "Rabbits are naturally clean: the step-by-step method to teach the litter tray."
       },
       "path": "articles/behavior/proprete-litiere",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T09:20:00.000Z",
       "readTimeMinutes": 4,
       "isPremium": true
@@ -148,7 +148,7 @@
         "en": "What your rabbit's gestures and sounds mean, and how to respond well."
       },
       "path": "articles/behavior/signaux-comportement",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T09:25:00.000Z",
       "readTimeMinutes": 4,
       "isPremium": true
@@ -165,7 +165,7 @@
         "en": "The recommended minimum dimensions and why a hutch alone is never enough."
       },
       "path": "articles/housing/espace-habitat",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T09:30:00.000Z",
       "readTimeMinutes": 4,
       "isPremium": true
@@ -182,7 +182,7 @@
         "en": "Cables, furniture, plants, products: protect your rabbit before letting it explore."
       },
       "path": "articles/housing/securiser-maison",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T09:35:00.000Z",
       "readTimeMinutes": 4,
       "isPremium": true
@@ -199,7 +199,7 @@
         "en": "Why brushing during the moult protects digestion — and why you should never bath a rabbit."
       },
       "path": "articles/grooming/mue-brossage",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T09:40:00.000Z",
       "readTimeMinutes": 4,
       "isPremium": true
@@ -216,7 +216,7 @@
         "en": "Finding the quick, the right tools and position, and what to do if it bleeds."
       },
       "path": "articles/grooming/couper-griffes",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T09:45:00.000Z",
       "readTimeMinutes": 5,
       "isPremium": true
@@ -233,7 +233,7 @@
         "en": "Teeth grow for life: the role of hay, the warning signs and the treatment."
       },
       "path": "articles/health/dents-malocclusion",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T10:00:00.000Z",
       "readTimeMinutes": 5,
       "isPremium": true
@@ -250,7 +250,7 @@
         "en": "Two often-fatal diseases, even indoors: why and when to vaccinate."
       },
       "path": "articles/health/vaccination",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T10:05:00.000Z",
       "readTimeMinutes": 4,
       "isPremium": true
@@ -267,7 +267,7 @@
         "en": "A rabbit's number one food: how much, which type, and how to spot good hay."
       },
       "path": "articles/food/bien-choisir-foin",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T10:10:00.000Z",
       "readTimeMinutes": 4,
       "isPremium": true
@@ -284,7 +284,7 @@
         "en": "Bowl or bottle, how many pellets, and why to avoid muesli mixes."
       },
       "path": "articles/food/eau-granules",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T10:15:00.000Z",
       "readTimeMinutes": 4,
       "isPremium": true
@@ -301,7 +301,7 @@
         "en": "Why a rabbit shouldn't live alone, the right pair, and how to bond them."
       },
       "path": "articles/behavior/compagnon",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T10:20:00.000Z",
       "readTimeMinutes": 4,
       "isPremium": true
@@ -318,7 +318,7 @@
         "en": "Digging, gnawing, foraging: safe ideas to keep your rabbit busy and avoid boredom."
       },
       "path": "articles/behavior/enrichissement-jeux",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T10:25:00.000Z",
       "readTimeMinutes": 4,
       "isPremium": true
@@ -335,7 +335,7 @@
         "en": "A dry, insulated shelter, predator protection, and the right habits through the seasons."
       },
       "path": "articles/housing/lapin-exterieur",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T10:30:00.000Z",
       "readTimeMinutes": 5,
       "isPremium": true
@@ -352,7 +352,7 @@
         "en": "Rabbits cope badly with heat: thresholds, signs, emergency steps and prevention."
       },
       "path": "articles/housing/coup-de-chaleur",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T10:35:00.000Z",
       "readTimeMinutes": 4,
       "isPremium": true
@@ -369,7 +369,7 @@
         "en": "A fatal summer emergency: risk factors, daily prevention and signs."
       },
       "path": "articles/grooming/myiase",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T10:40:00.000Z",
       "readTimeMinutes": 4,
       "isPremium": true
@@ -386,7 +386,7 @@
         "en": "How to lift it safely, the forbidden moves, and why you must never put it on its back."
       },
       "path": "articles/grooming/manipuler-porter",
-      "cover": null,
+      "cover": "cover.webp",
       "publishedAt": "2026-06-06T10:45:00.000Z",
       "readTimeMinutes": 4,
       "isPremium": true
