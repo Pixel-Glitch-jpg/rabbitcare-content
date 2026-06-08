@@ -6,9 +6,15 @@ the diet, with greens as an addition.
 
 ## How much?
 
-A good rule of thumb: **about one large handful of greens per kilo of rabbit per
-day**, split into two servings. Offer **at least 3 different types** each day for
-variety.
+How much greens to give depends on your rabbit's **weight**: aim for about **80 to
+100 g of greens per kilo of body weight per day**, split into two servings. A few
+guidelines by size:
+
+- **Small / dwarf rabbit** (~1.5 kg): about **120 to 150 g** per day.
+- **Medium rabbit** (~2.5 kg): about **200 to 250 g** per day.
+- **Large rabbit** (~4 kg): about **350 to 400 g** per day.
+
+Offer **at least 3 different types** each day for variety.
 
 ## Good choices
 

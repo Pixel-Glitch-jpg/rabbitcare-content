@@ -19,7 +19,6 @@ vétérinaire qui connaît les lapins.
 - **Pain, gâteaux, pâtes, céréales, biscuits** — trop de sucre et d'amidon :
   déséquilibre digestif potentiellement grave.
 - **Produits laitiers, viande, œufs** — le lapin est strictement herbivore.
-- **Haricots et légumineuses crus** — provoquent gaz et diarrhée.
 - **Noix, graines, maïs** — trop gras, mal digérés, risque d'occlusion.
 - **Champignons** — risque de toxines.
 - **Friandises sucrées du commerce** (bonbons, *yogurt drops*, raisins secs) — trop
@@ -34,6 +33,8 @@ feuilles foncées** (romaine, feuille de chêne).
 ## Le bon réflexe
 
 En cas de doute sur un aliment, **abstenez-vous** et vérifiez d'abord. La rubrique
-**Alimentation** de l'application vous aide à savoir ce qui convient. Si votre lapin
+**Alimentation** de l'application ne se limite pas aux aliments
+conseillés : elle indique aussi ceux **à éviter ou à ne pas donner**. En cas de
+doute, cherchez-y l'aliment avant de le proposer. Si votre lapin
 a avalé un aliment dangereux ou montre des signes inhabituels (refus de manger,
 abattement), consultez **rapidement** un vétérinaire.

@@ -16,7 +16,6 @@ your rabbit eats one of these, contact a rabbit-savvy vet without delay.
 - **Bread, cakes, pasta, cereals, biscuits** — too much sugar and starch: a
   potentially serious digestive upset.
 - **Dairy, meat, eggs** — rabbits are strictly herbivores.
-- **Raw beans and legumes** — cause gas and diarrhoea.
 - **Nuts, seeds, corn** — too fatty, poorly digested, risk of blockage.
 - **Mushrooms** — risk of toxins.
 - **Sugary shop treats** (sweets, *yogurt drops*, raisins) — too much sugar, even
@@ -31,5 +30,7 @@ leaf).
 ## The right habit
 
 If you are unsure about a food, **hold off** and check first. The **Food** section
-of the app helps you know what is suitable. If your rabbit has swallowed a dangerous
+of the app is not limited to recommended foods: it also
+flags those **to avoid or never give**. When in doubt, look the food up there
+before offering it. If your rabbit has swallowed a dangerous
 food or shows unusual signs (refusing to eat, dullness), see a vet **quickly**.

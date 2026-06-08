@@ -86,6 +86,22 @@
       "isPremium": true
     },
     {
+      "id": "introduire-legumes-bebe",
+      "category": "food",
+      "title": {
+        "fr": "Introduire les légumes chez le bébé lapin",
+        "en": "Introducing vegetables to a baby rabbit"
+      },
+      "summary": {
+        "fr": "Quand et comment proposer la première verdure à un jeune lapin, sans risque pour son transit fragile.",
+        "en": "When and how to offer the first greens to a young rabbit, safely for a delicate gut."
+      },
+      "path": "articles/food/introduire-legumes-bebe",
+      "publishedAt": "2026-06-08T09:00:00.000Z",
+      "readTimeMinutes": 4,
+      "isPremium": true
+    },
+    {
       "id": "aliments-interdits",
       "category": "food",
       "title": {

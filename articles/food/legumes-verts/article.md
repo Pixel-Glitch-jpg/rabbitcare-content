@@ -6,9 +6,15 @@ représenter l'essentiel de l'alimentation, la verdure venant en complément.
 
 ## Quelle quantité ?
 
-Une bonne repère : **environ une grosse poignée de verdure par kilo de lapin et par
-jour**, répartie en deux fois. Donnez **au moins 3 sortes différentes** chaque jour
-pour varier les apports.
+La quantité de verdure dépend du **poids** de votre lapin : comptez environ **80 à
+100 g de verdure par kilo de poids et par jour**, répartis en deux repas. Quelques
+repères selon le gabarit :
+
+- **Petit lapin / nain** (~1,5 kg) : environ **120 à 150 g** par jour.
+- **Lapin moyen** (~2,5 kg) : environ **200 à 250 g** par jour.
+- **Grand lapin** (~4 kg) : environ **350 à 400 g** par jour.
+
+Donnez **au moins 3 sortes différentes** chaque jour pour varier les apports.
 
 ## De bons choix
 
