@@ -35,5 +35,5 @@ rendre votre lapin malade. Conservez le foin dans un endroit **frais, sec et aé
 ## Comment le proposer
 
 Laissez-le toujours accessible et propre. Une astuce qui marche bien : placer le
-foin **près du bac à litière** — votre lapin adore manger et faire ses besoins en
+foin **près du bac à litière**, votre lapin adore manger et faire ses besoins en
 même temps, ce qui l'incite à en consommer davantage.

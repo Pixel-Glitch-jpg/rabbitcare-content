@@ -21,7 +21,7 @@ something else. The most common causes are:
 - It is **dull**, sits hunched and still.
 - It **grinds its teeth loudly** (a sign of pain) or its belly looks bloated.
 
-## When to act — fast
+## When to act, fast
 
 This is an **emergency**. If your rabbit **stops eating or stops producing
 droppings for 12 hours**, contact a rabbit-savvy vet **immediately**. Many

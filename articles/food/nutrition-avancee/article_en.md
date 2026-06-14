@@ -18,5 +18,5 @@ digestion.
 
 ## Watch the weight
 
-Weigh your rabbit every week. A **rapid change** — up or down — should alert you
+Weigh your rabbit every week. A **rapid change**, up or down, should alert you
 and, if needed, prompt a vet visit.

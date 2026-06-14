@@ -19,5 +19,5 @@ transit.
 
 ## Surveiller le poids
 
-Pesez votre lapin chaque semaine. Une **variation rapide** — à la hausse comme à
-la baisse — doit vous alerter et, au besoin, vous amener à consulter.
+Pesez votre lapin chaque semaine. Une **variation rapide**, à la hausse comme à
+la baisse, doit vous alerter et, au besoin, vous amener à consulter.

@@ -1,6 +1,6 @@
 # Nips, thumps and growls: understanding your rabbit
 
-Rabbits don't meow or bark, but they **communicate a lot** — through their posture,
+Rabbits don't meow or bark, but they **communicate a lot**, through their posture,
 their sounds and their gestures. Learning to read them means respecting them better.
 
 ## The signals and what they mean
@@ -13,7 +13,7 @@ their sounds and their gestures. Learning to read them means respecting them bet
   last warning.
 - **Loud tooth grinding**: a sign of **pain** or illness. If it is sudden,
   especially with refusal to eat or dullness, see a vet **quickly**.
-- **Soft tooth purring** (a light chattering): the opposite — a sign of **contentment**,
+- **Soft tooth purring** (a light chattering): the opposite, a sign of **contentment**,
   often when you stroke a relaxed rabbit.
 - **Binky** (a joyful leap with a twist in the air): **pure joy**. A great sign!
 

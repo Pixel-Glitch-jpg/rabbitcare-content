@@ -2,7 +2,7 @@
 
 Le système digestif d'un jeune lapin est encore **très fragile**. Introduire la
 verdure trop tôt ou trop vite est l'une des principales causes de diarrhée chez le
-lapereau — un trouble qui peut devenir grave en quelques heures. Voici comment faire
+lapereau, un trouble qui peut devenir grave en quelques heures. Voici comment faire
 les choses en douceur.
 
 ## Avant tout : du lait, du foin et des granulés

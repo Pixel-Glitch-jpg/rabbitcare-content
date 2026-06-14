@@ -2,14 +2,14 @@
 
 Two viral diseases threaten pet rabbits, even those living indoors:
 **myxomatosis** and **viral haemorrhagic disease (VHD, also called RHD)**. Both are
-**often fatal** — and vaccination is exactly what protects against them.
+**often fatal**, and vaccination is exactly what protects against them.
 
 ## What you vaccinate against
 
 - **Myxomatosis**: spread mainly by **biting insects** (fleas, mosquitoes). In an
   unvaccinated rabbit it is usually fatal.
 - **VHD / RHD**: highly contagious and hardy. There are two strains (**RHD1** and
-  **RHD2**). It can kill **with no visible sign** — sometimes the only symptom is
+  **RHD2**). It can kill **with no visible sign**, sometimes the only symptom is
   sudden death.
 
 VHD also spreads via objects, clothes, shoes or contaminated food: an **indoor**

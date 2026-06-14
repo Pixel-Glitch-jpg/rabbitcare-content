@@ -17,7 +17,7 @@ rabbits, a space of at least:
 
 ## "Constant access", not "exercise hours"
 
-The key point: this space must be available **at all times**, day and night — not a
+The key point: this space must be available **at all times**, day and night, not a
 few hours of exercise a day. The ideal is a shelter attached to a large run, where
 the rabbit moves around **freely** whenever it wants.
 

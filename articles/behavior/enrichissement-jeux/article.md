@@ -1,6 +1,6 @@
 # Jouer et enrichir le quotidien de votre lapin
 
-Un lapin qui s'ennuie devient malheureux — et parfois destructeur. L'**enrichissement**
+Un lapin qui s'ennuie devient malheureux, et parfois destructeur. L'**enrichissement**
 consiste à lui offrir de quoi exprimer ses comportements naturels : **creuser,
 ronger, fouiller, explorer et se cacher**.
 
@@ -19,7 +19,7 @@ papier toilette ou un sac en papier. Il s'occupera des heures.
 - **Bac à creuser** : une grande caisse remplie de terre ou de papier déchiqueté.
 - **À ronger** : branches de **saule, noisetier, pommier**, jouets en bois **non
   traité**.
-- **Changez régulièrement** les jouets pour entretenir la curiosité — mais laissez
+- **Changez régulièrement** les jouets pour entretenir la curiosité, mais laissez
   son abri/coin « nid » toujours au même endroit (repère rassurant).
 
 ## À éviter
@@ -32,4 +32,4 @@ papier toilette ou un sac en papier. Il s'occupera des heures.
 
 Mordillement des barreaux, tourner en rond, agressivité, ou au contraire **apathie**.
 Attention : l'apathie et le surtoilettage peuvent aussi cacher un **problème de
-santé** — en cas de doute, demandez l'avis d'un vétérinaire qui connaît les lapins.
+santé**, en cas de doute, demandez l'avis d'un vétérinaire qui connaît les lapins.

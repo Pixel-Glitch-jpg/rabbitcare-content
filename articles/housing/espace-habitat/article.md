@@ -18,7 +18,7 @@ lapins** de taille moyenne, un espace d'au moins :
 ## « Accès permanent », pas « heures de sortie »
 
 Le point essentiel : cet espace doit être disponible **en permanence**, à tout
-moment de la journée et de la nuit — et non quelques heures de sortie par jour.
+moment de la journée et de la nuit, et non quelques heures de sortie par jour.
 L'idéal est un abri relié à un grand enclos, où le lapin circule **librement** quand
 il le souhaite.
 

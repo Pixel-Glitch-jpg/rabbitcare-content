@@ -1,7 +1,7 @@
 # Introducing vegetables to a baby rabbit
 
 A young rabbit's digestive system is still **very delicate**. Introducing greens too
-early or too fast is one of the main causes of diarrhoea in baby rabbits — a problem
+early or too fast is one of the main causes of diarrhoea in baby rabbits, a problem
 that can turn serious within hours. Here is how to do it gently.
 
 ## First things first: milk, hay and pellets

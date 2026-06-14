@@ -1,6 +1,6 @@
 # Mordillements, tapements, grognements : comprendre votre lapin
 
-Le lapin ne miaule pas et n'aboie pas, mais il **communique beaucoup** — par sa
+Le lapin ne miaule pas et n'aboie pas, mais il **communique beaucoup**, par sa
 posture, ses bruits et ses gestes. Apprendre à le lire, c'est mieux le respecter.
 
 ## Les signaux et ce qu'ils veulent dire

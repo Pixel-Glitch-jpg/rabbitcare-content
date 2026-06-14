@@ -24,7 +24,7 @@ time.
 - Put the rabbit on a **non-slip** surface. Two people make it easier: one holds
   calmly, the other trims. You can also wrap it in a towel, freeing one paw at a
   time.
-- **Never put your rabbit on its back**: it freezes from fear — that is distress,
+- **Never put your rabbit on its back**: it freezes from fear, that is distress,
   not calm.
 
 ## If it bleeds
@@ -35,5 +35,5 @@ If you cut a little too short, the nail may bleed. Don't panic:
 - apply **styptic powder** (or, failing that, a little **cornflour / cornstarch**)
   and hold the pressure for a few minutes.
 
-If the bleeding doesn't stop, or you can't manage, call a vet who knows rabbits —
+If the bleeding doesn't stop, or you can't manage, call a vet who knows rabbits,
 they can also trim the nails for you.

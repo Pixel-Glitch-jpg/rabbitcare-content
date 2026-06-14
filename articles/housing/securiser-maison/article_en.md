@@ -23,7 +23,7 @@ Rabbits gnaw wood: skirting boards, chair legs, door frames. You can:
 
 ## Plants
 
-As a **precaution, treat all houseplants as toxic** and keep them out of reach — a
+As a **precaution, treat all houseplants as toxic** and keep them out of reach, a
 rabbit can't tell what is dangerous. Some risky examples: **ivy, philodendron,
 dieffenbachia, lily of the valley, daffodil, tulip, yew, foxglove**. Also check that
 no leaves fall into its area.
@@ -32,7 +32,7 @@ no leaves fall into its area.
 
 - **Cleaning products, insecticides, medicines**: keep everything out of reach (a
   rabbit swallows anything that settles on its coat when it grooms).
-- **Small gaps**: rabbits slip into narrow spaces and can get stuck — block them.
+- **Small gaps**: rabbits slip into narrow spaces and can get stuck, block them.
   Keep it away from dangerous areas like the cooker.
 - **Thin plastics and bags**: chewed and swallowed, they risk choking or blocking
   the gut.

@@ -22,7 +22,7 @@ Préférez **plusieurs petites séances** douces à une longue, pour ne pas le s
 
 Utilisez un **peigne à dents larges** ou une **brosse souple** (picots émoussés ou
 caoutchouc) et démêlez en douceur. **Ne coupez jamais un nœud aux ciseaux** : la
-peau du lapin est très fine et se déchire facilement — confiez les nœuds importants
+peau du lapin est très fine et se déchire facilement, confiez les nœuds importants
 à un vétérinaire.
 
 ## Foin, eau… et surveillance

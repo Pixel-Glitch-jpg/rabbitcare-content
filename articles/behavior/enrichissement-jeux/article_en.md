@@ -1,6 +1,6 @@
 # Play and enrichment for your rabbit
 
-A bored rabbit becomes unhappy — and sometimes destructive. **Enrichment** means
+A bored rabbit becomes unhappy, and sometimes destructive. **Enrichment** means
 giving it ways to express its natural behaviours: **digging, gnawing, foraging,
 exploring and hiding**.
 
@@ -16,7 +16,7 @@ under a layer of hay, in a toilet roll or a paper bag. It will keep busy for hou
   out to feel safe). Cardboard boxes open at both ends, willow tunnels.
 - **A digging box**: a large box filled with soil or shredded paper.
 - **To gnaw**: branches of **willow, hazel, apple**, toys of **untreated** wood.
-- **Rotate** the toys regularly to keep curiosity alive — but leave its
+- **Rotate** the toys regularly to keep curiosity alive, but leave its
   shelter/"nest" corner always in the same place (a reassuring landmark).
 
 ## What to avoid
@@ -28,5 +28,5 @@ under a layer of hay, in a toilet roll or a paper bag. It will keep busy for hou
 ## Signs of boredom
 
 Bar-biting, circling, aggression, or on the contrary **apathy**. Note: apathy and
-over-grooming can also hide a **health problem** — if in doubt, ask a vet who knows
+over-grooming can also hide a **health problem**, if in doubt, ask a vet who knows
 rabbits.

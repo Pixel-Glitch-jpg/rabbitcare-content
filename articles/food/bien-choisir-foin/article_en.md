@@ -33,5 +33,5 @@ make your rabbit ill. Store hay somewhere **cool, dry and airy**, out of sunligh
 ## How to offer it
 
 Keep it accessible and clean at all times. A trick that works well: place the hay
-**near the litter tray** — your rabbit loves to eat and toilet at the same time,
+**near the litter tray**, your rabbit loves to eat and toilet at the same time,
 which encourages it to eat more.

@@ -6,22 +6,22 @@ vétérinaire qui connaît les lapins.
 
 ## À ne JAMAIS donner
 
-- **Avocat** — contient une substance (la persine) toxique pour le cœur ; dangereux
+- **Avocat** : contient une substance (la persine) toxique pour le cœur ; dangereux
   même en petite quantité.
-- **Chocolat** — la théobromine et la caféine sont toxiques pour le système nerveux.
-- **Oignon, ail, poireau, échalote** — peuvent détruire les globules rouges
+- **Chocolat** : la théobromine et la caféine sont toxiques pour le système nerveux.
+- **Oignon, ail, poireau, échalote** : peuvent détruire les globules rouges
   (anémie).
-- **Rhubarbe** — riche en acide oxalique, irritante et toxique.
-- **Pomme de terre crue** (et les feuilles de pomme de terre / tomate) — toxiques
+- **Rhubarbe** : riche en acide oxalique, irritante et toxique.
+- **Pomme de terre crue** (et les feuilles de pomme de terre / tomate) : toxiques
   et trop riches en amidon.
-- **Pépins et noyaux** (pomme, cerise, pêche, prune…) — contiennent des traces de
+- **Pépins et noyaux** (pomme, cerise, pêche, prune…) : contiennent des traces de
   cyanure ; retirez-les toujours.
-- **Pain, gâteaux, pâtes, céréales, biscuits** — trop de sucre et d'amidon :
+- **Pain, gâteaux, pâtes, céréales, biscuits** : trop de sucre et d'amidon :
   déséquilibre digestif potentiellement grave.
-- **Produits laitiers, viande, œufs** — le lapin est strictement herbivore.
-- **Noix, graines, maïs** — trop gras, mal digérés, risque d'occlusion.
-- **Champignons** — risque de toxines.
-- **Friandises sucrées du commerce** (bonbons, *yogurt drops*, raisins secs) — trop
+- **Produits laitiers, viande, œufs** : le lapin est strictement herbivore.
+- **Noix, graines, maïs** : trop gras, mal digérés, risque d'occlusion.
+- **Champignons** : risque de toxines.
+- **Friandises sucrées du commerce** (bonbons, *yogurt drops*, raisins secs) : trop
   de sucre, même celles vendues « pour lapins ».
 
 ## Et la laitue iceberg ?

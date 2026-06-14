@@ -1,6 +1,6 @@
 # Manipuler et porter votre lapin en sécurité
 
-Un lapin se porte avec précaution. Mal soulevé, il peut paniquer, se débattre — et un
+Un lapin se porte avec précaution. Mal soulevé, il peut paniquer, se débattre, et un
 coup de patte violent peut même lui **fracturer la colonne**. Quelques gestes
 simples évitent tout danger.
 

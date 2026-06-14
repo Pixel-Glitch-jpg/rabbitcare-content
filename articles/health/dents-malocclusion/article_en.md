@@ -1,6 +1,6 @@
 # Your rabbit's teeth: watching for malocclusion
 
-A rabbit has **28 teeth** that grow **all its life**, never stopping — about **2
+A rabbit has **28 teeth** that grow **all its life**, never stopping, about **2
 millimetres a week**. This is normal: chewing fibrous food wears them down as they
 grow. The whole balance rests on that.
 

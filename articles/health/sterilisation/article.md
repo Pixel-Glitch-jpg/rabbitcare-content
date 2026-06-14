@@ -32,7 +32,7 @@ Le lapin est plus sensible à l'anesthésie que le chien ou le chat, mais avec u
 **vétérinaire habitué aux lapins** et les techniques actuelles, l'intervention
 reste courante. La récupération prend en général **2 jours chez le mâle**, **5 à
 7 jours chez la femelle**. Proposez du foin dès le retour : votre lapin doit
-**recommencer à manger rapidement** — sinon, recontactez le vétérinaire.
+**recommencer à manger rapidement**, sinon, recontactez le vétérinaire.
 
 Parlez-en avec un vétérinaire qui connaît les lapins : il vous conseillera le bon
 moment pour votre animal.

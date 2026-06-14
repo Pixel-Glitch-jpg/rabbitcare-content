@@ -5,20 +5,20 @@ your rabbit eats one of these, contact a rabbit-savvy vet without delay.
 
 ## Never give
 
-- **Avocado** — contains a substance (persin) that is toxic to the heart; dangerous
+- **Avocado**: contains a substance (persin) that is toxic to the heart; dangerous
   even in small amounts.
-- **Chocolate** — theobromine and caffeine are toxic to the nervous system.
-- **Onion, garlic, leek, shallot** — can destroy red blood cells (anaemia).
-- **Rhubarb** — high in oxalic acid, irritating and toxic.
-- **Raw potato** (and potato / tomato leaves) — toxic and too high in starch.
-- **Pips and stones** (apple, cherry, peach, plum…) — contain traces of cyanide;
+- **Chocolate**: theobromine and caffeine are toxic to the nervous system.
+- **Onion, garlic, leek, shallot**: can destroy red blood cells (anaemia).
+- **Rhubarb**: high in oxalic acid, irritating and toxic.
+- **Raw potato** (and potato / tomato leaves): toxic and too high in starch.
+- **Pips and stones** (apple, cherry, peach, plum…): contain traces of cyanide;
   always remove them.
-- **Bread, cakes, pasta, cereals, biscuits** — too much sugar and starch: a
+- **Bread, cakes, pasta, cereals, biscuits**: too much sugar and starch: a
   potentially serious digestive upset.
-- **Dairy, meat, eggs** — rabbits are strictly herbivores.
-- **Nuts, seeds, corn** — too fatty, poorly digested, risk of blockage.
-- **Mushrooms** — risk of toxins.
-- **Sugary shop treats** (sweets, *yogurt drops*, raisins) — too much sugar, even
+- **Dairy, meat, eggs**: rabbits are strictly herbivores.
+- **Nuts, seeds, corn**: too fatty, poorly digested, risk of blockage.
+- **Mushrooms**: risk of toxins.
+- **Sugary shop treats** (sweets, *yogurt drops*, raisins): too much sugar, even
   those sold "for rabbits".
 
 ## What about iceberg lettuce?

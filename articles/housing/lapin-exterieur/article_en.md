@@ -1,7 +1,7 @@
 # Outdoor rabbits: shelter, weather and safety
 
 A rabbit can live outdoors very well, provided its setup protects it from **cold**,
-**heat** and **predators**. Rabbits often cope with cold better than heat — but it is
+**heat** and **predators**. Rabbits often cope with cold better than heat, but it is
 mainly **sudden changes** in temperature that are dangerous.
 
 ## A dry, insulated, well-placed shelter
@@ -10,7 +10,7 @@ mainly **sudden changes** in temperature that are dangerous.
 - Provide a **warm, dry, draught-free** sleeping area, lined with **straw** (straw
   insulates; hay is a food).
 - Leave **ventilation openings** to let damp escape.
-- Reminder: a hutch alone is not enough — it must be **permanently attached to a
+- Reminder: a hutch alone is not enough, it must be **permanently attached to a
   large run** where the rabbit can move freely.
 
 ## Protecting from predators

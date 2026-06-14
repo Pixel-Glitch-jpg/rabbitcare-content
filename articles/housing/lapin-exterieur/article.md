@@ -2,7 +2,7 @@
 
 Un lapin peut très bien vivre dehors, à condition que son installation le protège du
 **froid**, de la **chaleur** et des **prédateurs**. Les lapins supportent souvent
-mieux le froid que la chaleur — mais ce sont surtout les **changements brusques** de
+mieux le froid que la chaleur, mais ce sont surtout les **changements brusques** de
 température qui sont dangereux.
 
 ## Un abri sec, isolé et bien placé
@@ -11,7 +11,7 @@ température qui sont dangereux.
 - Prévoyez un **couchage chaud, sec et sans courant d'air**, garni de **paille** (la
   paille isole ; le foin, lui, est un aliment).
 - Laissez des **ouvertures de ventilation** pour évacuer l'humidité.
-- Rappel : un clapier seul ne suffit pas — il doit être **relié en permanence à un
+- Rappel : un clapier seul ne suffit pas, il doit être **relié en permanence à un
   grand enclos** où le lapin circule librement.
 
 ## Protéger des prédateurs

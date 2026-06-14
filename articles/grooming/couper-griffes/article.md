@@ -38,4 +38,4 @@ Si vous coupez un peu trop court, la griffe peut saigner. Pas de panique :
   / maïzena**) et maintenez la pression quelques minutes.
 
 Si le saignement ne s'arrête pas, ou si vous n'y arrivez pas, faites appel à un
-vétérinaire qui connaît les lapins — il peut aussi couper les griffes pour vous.
+vétérinaire qui connaît les lapins, il peut aussi couper les griffes pour vous.

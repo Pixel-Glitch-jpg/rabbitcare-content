@@ -1,6 +1,6 @@
 # Les dents de votre lapin : surveiller la malocclusion
 
-Le lapin a **28 dents** qui poussent **toute sa vie**, sans jamais s'arrêter —
+Le lapin a **28 dents** qui poussent **toute sa vie**, sans jamais s'arrêter,
 environ **2 millimètres par semaine**. C'est normal : la mastication d'aliments
 fibreux les use au fur et à mesure. Tout l'équilibre tient là.
 

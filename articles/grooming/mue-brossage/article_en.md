@@ -23,7 +23,7 @@ Prefer **several short, gentle sessions** over one long one, to avoid stress.
 
 Use a **wide-tooth comb** or a **soft brush** (blunt pins or rubber) and detangle
 gently. **Never cut a knot with scissors**: a rabbit's skin is very thin and tears
-easily — leave large mats to a vet.
+easily, leave large mats to a vet.
 
 ## Hay, water… and watching
 

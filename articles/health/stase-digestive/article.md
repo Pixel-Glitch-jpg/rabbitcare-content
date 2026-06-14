@@ -23,7 +23,7 @@ d'autre chose. Les causes les plus courantes sont :
 - Il est **abattu**, reste prostré, le dos voûté.
 - Il **grince fortement des dents** (signe de douleur) ou son ventre est gonflé.
 
-## Quand consulter — vite
+## Quand consulter, vite
 
 C'est une **urgence**. Si votre lapin **ne mange plus ou ne fait plus de crottes
 pendant 12 heures**, contactez **immédiatement** un vétérinaire qui connaît les

@@ -31,7 +31,7 @@ females during that period.
 Rabbits are more sensitive to anaesthetic than cats or dogs, but with a
 **rabbit-savvy vet** and modern techniques the procedure is routine. Recovery
 usually takes **about 2 days for males** and **5 to 7 days for females**. Offer hay
-as soon as your rabbit comes home: it should **start eating again quickly** — if
+as soon as your rabbit comes home: it should **start eating again quickly**, if
 not, contact the vet again.
 
 Talk it through with a vet who knows rabbits: they will advise the right time for

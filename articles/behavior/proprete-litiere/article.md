@@ -26,7 +26,7 @@ est bien plus facile à rendre propre. C'est de loin le facteur le plus importan
 ## Quelle litière ?
 
 - **Sûres** : granulés de papier recyclé, granulés de bois séchés, chanvre, lin,
-  paille dépoussiérée — le tout recouvert de foin frais.
+  paille dépoussiérée, le tout recouvert de foin frais.
 - **À éviter absolument** : les litières **agglomérantes pour chats** (elles
   gonflent si elles sont avalées et peuvent boucher l'intestin) et les **copeaux de
   pin ou de cèdre** (leurs vapeurs irritent les voies respiratoires).

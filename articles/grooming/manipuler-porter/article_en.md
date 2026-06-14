@@ -1,6 +1,6 @@
 # Handling and carrying your rabbit safely
 
-A rabbit must be carried with care. Lifted badly, it can panic and struggle — and a
+A rabbit must be carried with care. Lifted badly, it can panic and struggle, and a
 violent kick can even **fracture its spine**. A few simple habits keep it safe.
 
 ## The right way to lift

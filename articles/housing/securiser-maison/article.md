@@ -24,7 +24,7 @@ Le lapin ronge le bois : plinthes, pieds de chaise, montants de porte. Vous pouv
 ## Les plantes
 
 Par **précaution, considérez toutes les plantes d'intérieur comme toxiques** et
-placez-les hors de portée — le lapin ne sait pas reconnaître ce qui est dangereux.
+placez-les hors de portée, le lapin ne sait pas reconnaître ce qui est dangereux.
 Quelques exemples à risque : **lierre, philodendron, dieffenbachia, muguet,
 jonquille, tulipe, if, digitale**. Vérifiez aussi qu'aucune feuille ne tombe dans
 sa zone.
@@ -34,7 +34,7 @@ sa zone.
 - **Produits ménagers, insecticides, médicaments** : tout doit être hors de portée
   (le lapin avale tout ce qui se dépose sur son pelage en se léchant).
 - **Petits espaces** : le lapin se glisse dans des recoins étroits et peut s'y
-  coincer — bloquez-les. Éloignez-le des zones dangereuses comme la cuisinière.
+  coincer, bloquez-les. Éloignez-le des zones dangereuses comme la cuisinière.
 - **Plastiques fins et sacs** : rongés puis avalés, ils risquent d'étouffer ou de
   boucher l'intestin.
 

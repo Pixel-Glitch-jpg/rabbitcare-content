@@ -25,7 +25,7 @@ is far easier to litter-train. This is by far the most important factor.
 ## Which litter?
 
 - **Safe**: recycled paper pellets, kiln-dried wood pellets, hemp, flax, dust-free
-  straw — topped with fresh hay.
+  straw, topped with fresh hay.
 - **Strictly avoid**: **clumping cat litter** (it swells if swallowed and can block
   the gut) and **pine or cedar shavings** (their fumes irritate the airways).
 

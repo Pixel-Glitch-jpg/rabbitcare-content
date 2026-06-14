@@ -2,7 +2,7 @@
 
 Deux maladies virales menacent les lapins de compagnie, même ceux qui vivent en
 intérieur : la **myxomatose** et la **maladie hémorragique virale (VHD, aussi
-appelée RHD)**. Toutes deux sont **souvent mortelles** — et c'est justement contre
+appelée RHD)**. Toutes deux sont **souvent mortelles**, et c'est justement contre
 elles que protège la vaccination.
 
 ## Contre quoi on vaccine
@@ -10,7 +10,7 @@ elles que protège la vaccination.
 - **Myxomatose** : transmise surtout par les **insectes piqueurs** (puces,
   moustiques). Chez un lapin non vacciné, elle est généralement fatale.
 - **VHD / RHD** : très contagieuse et résistante. Il en existe deux souches
-  (**RHD1** et **RHD2**). Elle peut tuer **sans aucun signe visible** — parfois le
+  (**RHD1** et **RHD2**). Elle peut tuer **sans aucun signe visible**, parfois le
   seul symptôme est une mort subite.
 
 La VHD se transmet aussi par des objets, vêtements, chaussures ou aliments

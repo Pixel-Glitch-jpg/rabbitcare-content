@@ -1,7 +1,7 @@
 # Water and pellets: amounts and good choices
 
 After hay and greens, water and pellets round out your rabbit's diet. Well managed,
-they are simple — as long as you avoid a few pitfalls.
+they are simple, as long as you avoid a few pitfalls.
 
 ## Water: always fresh, always available
 

@@ -1,7 +1,7 @@
 # L'eau et les granulés : quantités et bons choix
 
 Après le foin et la verdure, l'eau et les granulés complètent l'alimentation de
-votre lapin. Bien gérés, ils sont simples — à condition d'éviter quelques pièges.
+votre lapin. Bien gérés, ils sont simples, à condition d'éviter quelques pièges.
 
 ## L'eau : toujours fraîche, toujours disponible
 
